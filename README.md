@@ -1,2 +1,1 @@
-# ILS204-VR-ARTMUSEUM
-# DLCV
+# DLCV - Final Project - Linlin Zhang
